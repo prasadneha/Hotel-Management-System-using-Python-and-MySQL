@@ -14,7 +14,7 @@ Total Calculation: The system calculates the total cost of the booking based on 
 Usage:
 
 Installation: No installation is required as the project is built using Python's standard libraries and Tkinter for the GUI.
-Running the Application: Execute the main.py file to launch the Hotel Management System.
+Running the Application: Execute the login.py file to launch the Hotel Management System.
 User Interface: The graphical user interface (GUI) provides an intuitive interface for interacting with the system.
 Functionality:
 Enter customer details and room booking information.
